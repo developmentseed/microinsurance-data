@@ -13,7 +13,7 @@ Text data for Microinsurance Network
 >
 > Date: [DATE]
 >
-> ===
+> %%%
 >
 > [Main text of the article]
    

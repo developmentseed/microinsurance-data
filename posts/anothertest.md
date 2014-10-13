@@ -1,6 +1,6 @@
 Title: A Second Test Post
 Author: Drew Bollinger
-Date: 10-12-2014
+Date: 2014-10-12
 
 %%%
 

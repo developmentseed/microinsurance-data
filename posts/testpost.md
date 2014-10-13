@@ -1,6 +1,6 @@
 Title: Test Post
 Author: Drew Bollinger
-Date: 10-10-2014
+Date: 2014-10-10
 
 %%%
 

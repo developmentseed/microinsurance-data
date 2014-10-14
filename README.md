@@ -4,7 +4,7 @@ microinsurance-data
 
 ## Prose
 
-Edit files using Markdown at: http://prose.io/#developmentseed/ifpri-impact-data/
+Edit files using Markdown at: http://prose.io/#developmentseed/microinsurance-data/
 
 ### To create a new blog post:
 

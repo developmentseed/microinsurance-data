@@ -1,7 +1,10 @@
 microinsurance-data
 ===================
 
-Text data for Microinsurance Network
+
+## Prose
+
+Edit files using Markdown at: http://prose.io/#developmentseed/ifpri-impact-data/
 
 ### To create a new blog post:
 

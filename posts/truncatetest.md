@@ -1,4 +1,4 @@
-Title: Let's try truncating
+Title: Longer test post
 Author: Drew Bollinger
 Date: 2014-10-13
 
